@@ -1,1 +1,1 @@
-# EcommerceApp-DjangoREST
+# SchoolApp-DjangoREST
