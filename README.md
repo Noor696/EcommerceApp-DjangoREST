@@ -30,7 +30,16 @@ I Use Django REST Framework to create an School API, then "containerize" it with
 
 
 **update the database:**
+
 python manage.py makemigrations
 python manage.py migrate
+
+**docker-compose up**
+when run this command:
+* my image will be build
+* my container will be build
+* take all the project and put it inside the container
+* then run the server inside the container.
+
 
 
